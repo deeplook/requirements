@@ -1,4 +1,5 @@
 numpy
 matplotlib
 seaborn
+ipywidgets==7.4.2
 ipyvolume==0.5.1
