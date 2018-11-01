@@ -3,4 +3,3 @@ matplotlib
 seaborn
 ipywidgets==7.4.2
 ipyvolume==0.5.1
-git+git://github.com/geopandas/geopandas.git
